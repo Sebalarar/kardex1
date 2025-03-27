@@ -69,7 +69,7 @@ class ContactoController extends Controller
      */
     public function update(Request $request, Contacto $contacto)
     {
-        //
+        //vjhcvjfhgfcjhg
     }
 
     /**
